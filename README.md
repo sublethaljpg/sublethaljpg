@@ -7,4 +7,4 @@
 | [jQuery To Do List](https://github.com/sublethaljpg/todo)                                  	| https://sublethaljpg.github.io/todo/        	|
 | [Fallout Terminal](https://github.com/sublethaljpg/fallout-terminal)                       	| N/A                                         	|
 | [Fallout Terminal Resources (temporary)](https://github.com/sublethaljpg/fallout-terminal) 	| N/A                                         	|
-| [Resources (images for my repos)](https://github.com/sublethaljpg/resources)               	| https://sublethaljpg.github.io/resources/   	|
+| [Resources (images for my repos)](https://github.com/sublethaljpg/resources)               	| N/A   	|
